@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1003010792297",
+    "firebase_url": "https://piyele-3b905.firebaseio.com",
+    "project_id": "piyele-3b905",
+    "storage_bucket": "piyele-3b905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003010792297:android:8cac286a66cdb009",
+        "android_client_info": {
+          "package_name": "com.example.wijaya.piyele"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003010792297-ljl79rdenkci24kp3bdgt06al26n4io5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wijaya.piyele",
+            "certificate_hash": "a894d29ffce9cb6407b762102e192a4ea6c7c3d2"
+          }
+        },
+        {
+          "client_id": "1003010792297-3vschk53rojre1sgri2kh0de88b67591.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVaFvf39zpxhzgA_uCVbJiN9A1h_kS8eg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003010792297-3vschk53rojre1sgri2kh0de88b67591.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

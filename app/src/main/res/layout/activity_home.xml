@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ff00ccff"
+    android:gravity="center"
+    tools:context="com.example.wijaya.piyele.HomeActivity">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="170dp"
+        android:src="@drawable/logopiyele"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:onClick="btnGuru"
+        android:layout_gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="GURU"/>
+
+    <Button
+        android:onClick="btnWali"
+        android:layout_gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="WALI MURID"/>
+
+    <Button
+        android:onClick="btnLogout"
+        android:layout_gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Keluar"/>
+
+
+
+</LinearLayout>
